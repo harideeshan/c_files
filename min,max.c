@@ -33,7 +33,7 @@ int main()
     }
     else if ((c > b) && (b > a))
     {
-        printf("max : %d\n", a);
+        printf("max : %d\n", c);
         printf("min:%d\n", a);
     }
     return 0;
